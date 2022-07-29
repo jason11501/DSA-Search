@@ -1,4 +1,4 @@
-# DSA-lab02
+# DSA-lab 02
 ## Install environments
 **Công cụ (Tool):**<br>
 * Xcode 13.3.1<br>
